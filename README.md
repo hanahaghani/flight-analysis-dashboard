@@ -1,3 +1,3 @@
 # flight-analysis-dashboard
 
-![Dashboard Preview] (./img.pnd)
+![Dashboard Preview](./img.png)
